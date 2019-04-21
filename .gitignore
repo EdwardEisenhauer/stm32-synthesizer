@@ -5,6 +5,7 @@
 *.htm
 *.pcblib_viewstate
 *.LibPkg
+*.PrjPcbStructure
 
 # macOS
 .DS_Store

@@ -1,0 +1,10 @@
+# Altium
+**/__Previews/
+**/History/
+*.CMP
+*.htm
+*.pcblib_viewstate
+*.LibPkg
+
+# macOS
+.DS_Store

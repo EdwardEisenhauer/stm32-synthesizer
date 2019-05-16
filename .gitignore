@@ -1,6 +1,7 @@
 # Altium
 **/__Previews/
 **/History/
+**/Project\ Logs*
 *.CMP
 *.htm
 *.pcblib_viewstate

@@ -9,6 +9,7 @@
 *.PrjPcbStructure
 *.log
 *.$$$
+*.OutJob
 
 # macOS
 .DS_Store

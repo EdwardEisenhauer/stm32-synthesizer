@@ -11,5 +11,8 @@
 *.$$$
 *.OutJob
 
+# CubeMX
+.mxproject
+
 # macOS
 .DS_Store
